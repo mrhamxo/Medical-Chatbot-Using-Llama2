@@ -1,4 +1,4 @@
-# Medical Chatbot Using Llama 2
+# Medical Chatbot Using Llama 
 
 This project is a **Generative AI Medical Chatbot** built using **Llama 2** and **Pinecone** for document retrieval. The chatbot is capable of understanding medical inquiries and providing responses based on indexed medical documents. It utilizes advanced NLP techniques to assist users with medical information while retrieving relevant information from PDFs and other documents.
 
